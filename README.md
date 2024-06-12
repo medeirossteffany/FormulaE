@@ -60,14 +60,16 @@ Este projeto consiste em três códigos voltados para o cadastro de usuários, s
 - `time`: Para medir o tempo de reprodução.
 - `os`: Para verificação de existência de arquivos.
 - `csv`: Para manipulação de arquivos CSV.
-- Não esqueça de alterar o caminho dos videos pelo o da sua máquina, e as barras devem estar viradas para o lado direito.
+- Faça download da pasta de vídeos no diretório pelo [link](https://drive.google.com/drive/folders/1oPdIkWW8FHsU-LJ1FJja9chVKgqg60WS?usp=sharing) e altere o caminho de acordo com o da sua máquina. Certifique-se de que as barras estejam voltadas para o lado direito.
 
 ### Como Executar
-1. Execute o script `pontuar_assistindo.py`.
-2. Digite seu email e senha para autenticar.
-3. Escolha um vídeo para assistir.
-4. Assista ao vídeo. Feche o vídeo pressionando 'q'.
-5. O tempo assistido será calculado e os pontos serão atualizados no saldo do usuário em `transacoes.csv`.
+1. Faça download da pasta de vídeos no diretório pelo [link](https://drive.google.com/drive/folders/1oPdIkWW8FHsU-LJ1FJja9chVKgqg60WS?usp=sharing) e altere o caminho de acordo com o da sua máquina.
+2. Execute o script `pontuar_assistindo.py`.
+3. Digite seu email e senha para autenticar.
+4. Escolha um vídeo para assistir.
+5. Assista ao vídeo. Feche o vídeo pressionando 'q'.
+6. O tempo assistido será calculado e os pontos serão atualizados no saldo do usuário em `transacoes.csv`.
+
 
 ---
 
