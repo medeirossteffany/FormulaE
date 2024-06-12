@@ -127,6 +127,7 @@ if __name__ == "__main__":
             print("Email ou senha incorretos. Tente novamente.")
 
     # Lista de vídeos disponíveis e seus tempos totais em segundos
+    # Faça download da pasta de videos pelo link (https://drive.google.com/drive/folders/1oPdIkWW8FHsU-LJ1FJja9chVKgqg60WS?usp=sharing) e altere o caminho de acordo com o da sua máquina.
     videos = {
         "1": ("C:/Users/AngeloFerreira/Desktop/Formula_E_application/Formula_E_Application/videos/vídeo03.mp4", 222),
         "2": ("C:/Users/AngeloFerreira/Desktop/Formula_E_application/Formula_E_Application/videos/vídeo02.mp4", 431),
