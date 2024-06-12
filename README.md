@@ -60,6 +60,7 @@ Este projeto consiste em três códigos voltados para o cadastro de usuários, s
 - `time`: Para medir o tempo de reprodução.
 - `os`: Para verificação de existência de arquivos.
 - `csv`: Para manipulação de arquivos CSV.
+- Não esqueça de alterar o caminho dos videos pelo o da sua máquina, e as barras devem estar viradas para o lado direito.
 
 ### Como Executar
 1. Execute o script `pontuar_assistindo.py`.
