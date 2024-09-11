@@ -2,7 +2,10 @@
 
 ## Introdução
 
-Este projeto abrange três scripts integrados que visam engajar os usuários em atividades relacionadas às corridas de Fórmula E. O sistema inclui um módulo para o cadastro de usuários, onde é possível criar contas e verificar códigos de divulgação para saldo inicial. Outro módulo simula um jogo de palpites, permitindo que os usuários ganhem pontos com base nas suas previsões sobre os corredores. O terceiro módulo é responsável por atribuir pontos aos usuários que assistem vídeos das corridas. Os pontos acumulados pelos usuários serão armazenados em um banco de dados e poderão ser usados para resgatar itens em uma loja virtual, que será desenvolvida em uma aplicação React.
+## Introdução
+
+Este projeto inclui três scripts que engajam os usuários com corridas de Fórmula E. O primeiro módulo é para cadastro de usuários, com criação de contas e códigos de divulgação para saldo inicial. O segundo módulo simula um jogo de palpites, permitindo que os usuários ganhem pontos com base nas suas previsões sobre os corredores. O terceiro módulo atribui pontos por assistir vídeos das corridas. Os pontos são armazenados em um banco de dados e poderão ser usados para resgatar itens em uma loja virtual desenvolvida em uma aplicação React.
+
 ---
 
 ## Código 1: `cadastro_usuario.py`
