@@ -1,8 +1,8 @@
-# Formula E 
+# FormulaE 
 
 ## Introdução
 
-Este projeto inclui três scripts que engajam os usuários com corridas de Fórmula E. O primeiro módulo é para cadastro de usuários, com criação de contas e códigos de divulgação para ganhar saldo. O segundo módulo simula um jogo de palpites, permitindo que os usuários ganhem pontos com base nas suas previsões sobre os corredores. O terceiro módulo atribui pontos por assistir vídeos das corridas. Os pontos são armazenados em um banco de dados MYSQL e poderão ser usados para resgatar itens em uma loja virtual desenvolvida em uma aplicação React.
+Este projeto inclui três scripts que engajam os usuários com a FórmulaE. O primeiro módulo é para cadastro de usuários, com criação de contas e códigos de divulgação para ganhar saldo. O segundo módulo simula um jogo de palpites, permitindo que os usuários ganhem pontos com base nas suas previsões sobre os corredores. O terceiro módulo atribui pontos por assistir vídeos das corridas. Os pontos são armazenados em um banco de dados MYSQL e poderão ser usados para resgatar itens em uma loja virtual desenvolvida em uma aplicação React.
 
 ---
 
