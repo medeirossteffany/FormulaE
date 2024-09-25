@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este projeto inclui três scripts que engajam os usuários com a FórmulaE. O primeiro módulo é para cadastro de usuários, com criação de contas e códigos de divulgação para ganhar saldo. O segundo módulo simula um jogo de palpites, permitindo que os usuários ganhem pontos com base nas suas previsões sobre os corredores. O terceiro módulo atribui pontos por assistir vídeos das corridas. Os pontos são armazenados em um banco de dados MYSQL e poderão ser usados para resgatar itens em uma loja virtual desenvolvida em uma aplicação React.
+Este projeto inclui quatro scripts que engajam os usuários com a FórmulaE. O primeiro módulo é para cadastro de usuários, com criação de contas e códigos de divulgação para ganhar saldo. O segundo módulo simula um jogo de palpites, permitindo que os usuários ganhem pontos com base nas suas previsões sobre os corredores. O terceiro módulo atribui pontos por assistir vídeos das corridas. O quarto módulo realiza a análise de dados das corridas da Fórmula E utilizando um arquivo CSV. Os pontos ganhos nos jogos são armazenados em um banco de dados MYSQL e poderão ser usados para resgatar itens em uma loja virtual desenvolvida em uma aplicação React.
 
 ---
 
@@ -74,10 +74,31 @@ Este projeto inclui três scripts que engajam os usuários com a FórmulaE. O pr
 
 ---
 
+## Código 4: `analise_dados.py`
+
+### Funcionalidade
+- Análise de dados de corridas de Fórmula E com base em um arquivo CSV com dados ficticios para simularmos.
+- Realiza análises descritivas gerais e por equipe.
+- Gera gráficos de desempenho das equipes com base na média de pontos.
+- Utiliza funções aninhadas e lambdas para modularizar e simplificar o código.
+
+### Dependências
+- `pandas`: Para manipulação e análise de dados do arquivo CSV.
+- `matplotlib`: Para gerar gráficos de desempenho.
+- `csv`: Para manipulação de arquivos CSV.
+
+### Como Executar
+1. Execute o script `analise_dados.py`.
+2. Escolha o tipo de análise:
+   - 'basica': Mostra uma análise descritiva geral dos dados.
+   - 'equipe': Mostra uma análise detalhada de pontuação por equipe.
+   - 'grafico': Gera um gráfico de barras mostrando o desempenho das equipes com base nos pontos médios.
+
+---
+
 ## Integrantes
 - Arthur Abonizio, RM: 555506
 - Steffany Medeiros, RM: 556262
 - Milena Garcia, RM: 555111
 - Enzo Dias, RM: 558225
-- Gustavo Henrique, RM: 556712
 
